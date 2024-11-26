@@ -3,4 +3,5 @@
 - I’m interested in programming and data science
 - I’m currently improving my skills in Data Handling and data science
 - I’m looking to collaborate on real world data science projects and internships.
+- Checkout my website at https://aradportfolio.vercel.app/
 - Contact me by my linkdien at https://www.linkedin.com/in/arad-hajari-00432621a/
