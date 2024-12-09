@@ -1,7 +1,6 @@
 - Hi, I’m @AradHajari
-- Completing Bachelor of Computer Science at Concordia University
-- I’m interested in programming and data science
-- I’m currently improving my skills in Data Handling and data science
-- I’m looking to collaborate on real world data science projects and internships.
+- I am a third-year Computer Science student at Concordia University and a full stack web developer.
+- I mainly use typescript and I am proficient in both React.js and Svelte as frontend frameworks.
+- My experience includes working with Firebase, OpenAI API, LangChain, and Pinecone to develop AI-powered retrieval chatbots and chat applications. 
 - Checkout my website at https://aradportfolio.vercel.app/
 - Contact me by my linkdien at https://www.linkedin.com/in/arad-hajari-00432621a/
